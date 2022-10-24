@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<PropertyList>
+
+<title>Lockheed Martin C-130J Super Hercules</title>
+
+<key>
+	<name>Delete</name>
+	<desc>Toggle thrust reversers</desc>
+</key>
+
+<text>
+  The C-130J is a very cool aircraft...
+</text>
+
+</PropertyList>

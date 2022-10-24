@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<ground_reactions>
+	<contact name="MLG Axis.l1" type="BOGEY">
+		<location unit="M">
+			<x>-0.62</x>
+			<y>-2.17</y>
+			<z>-0.355</z>
+		</location>
+		<static_friction>0.8</static_friction>
+		<dynamic_friction>0.5</dynamic_friction>
+		<rolling_friction>0.02</rolling_friction>
+		<spring_coeff unit="N/M">824700</spring_coeff>
+		<damping_coeff unit="N/M/SEC">300000</damping_coeff>
+		<max_steer unit="DEG">0</max_steer>
+		<brake_group>LEFT</brake_group>
+		<retractable>1</retractable>
+	</contact>
+	<contact name="MLG Axis.l2" type="BOGEY">
+		<location unit="M">
+			<x>0.92</x>
+			<y>-2.17</y>
+			<z>-0.355</z>
+		</location>
+		<static_friction>0.8</static_friction>
+		<dynamic_friction>0.5</dynamic_friction>
+		<rolling_friction>0.02</rolling_friction>
+		<spring_coeff unit="N/M">824700</spring_coeff>
+		<damping_coeff unit="N/M/SEC">300000</damping_coeff>
+		<max_steer unit="DEG">0</max_steer>
+		<brake_group>LEFT</brake_group>
+		<retractable>1</retractable>
+	</contact>
+	<contact name="MLG Axis.r1" type="BOGEY">
+		<location unit="M">
+			<x>-0.62</x>
+			<y>2.17</y>
+			<z>-0.355</z>
+		</location>
+		<static_friction>0.8</static_friction>
+		<dynamic_friction>0.5</dynamic_friction>
+		<rolling_friction>0.02</rolling_friction>
+		<spring_coeff unit="N/M">824700</spring_coeff>
+		<damping_coeff unit="N/M/SEC">300000</damping_coeff>
+		<max_steer unit="DEG">0</max_steer>
+		<brake_group>RIGHT</brake_group>
+		<retractable>1</retractable>
+	</contact>
+	<contact name="MLG Axis.r2" type="BOGEY">
+		<location unit="M">
+			<x>0.92</x>
+			<y>2.17</y>
+			<z>-0.355</z>
+		</location>
+		<static_friction>0.8</static_friction>
+		<dynamic_friction>0.5</dynamic_friction>
+		<rolling_friction>0.02</rolling_friction>
+		<spring_coeff unit="N/M">824700</spring_coeff>
+		<damping_coeff unit="N/M/SEC">300000</damping_coeff>
+		<max_steer unit="DEG">0</max_steer>
+		<brake_group>RIGHT</brake_group>
+		<retractable>1</retractable>
+	</contact>
+	<contact name="NLG-Wheel-Axis" type="BOGEY">
+		<location unit="M">
+			<x>-9.63</x>
+			<y>0</y>
+			<z>-0.275</z>
+		</location>
+		<static_friction>0.8</static_friction>
+		<dynamic_friction>0.5</dynamic_friction>
+		<rolling_friction>0.02</rolling_friction>
+		<spring_coeff unit="N/M">180000</spring_coeff>
+		<damping_coeff unit="N/M/SEC">80000</damping_coeff>
+		<max_steer unit="DEG">0.349</max_steer>
+		<brake_group>NONE</brake_group>
+		<retractable>1</retractable>
+	</contact>
+</ground_reactions>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PropertyList>
+
+  <model>
+	  <path>C130J.model.xml</path>
+  </model>
+
+	<model>
+	  <path>Lights/strobe.xml</path>
+	  <name>StrobeLight.Tail</name>
+	  <offsets>
+		  <x-m>14.191</x-m>
+		  <y-m>0</y-m>
+		  <z-m>11.66</z-m>
+	  </offsets>
+  </model>
+  
+  <model>
+		<path>Aircraft/Generic/Lights/light-cone.xml</path>
+		<name>Landing Light</name>
+		<offsets>
+			<x-m>-1.168</x-m>
+			<y-m>7.305</y-m>
+			<z-m>4.08</z-m>
+			<pitch-deg>-7</pitch-deg>
+		</offsets>
+		<overlay>
+			<params>
+				<switch>/controls/lighting/landing-lights</switch>
+			</params>
+		</overlay>
+	</model>
+	<model>
+		<path>Aircraft/Generic/Lights/light-cone.xml</path>
+		<name>Landing Light.001</name>
+		<offsets>
+			<x-m>-1.168</x-m>
+			<y-m>-7.305</y-m>
+			<z-m>4.08</z-m>
+			<pitch-deg>-7</pitch-deg>
+		</offsets>
+		<overlay>
+			<params>
+				<switch>/controls/lighting/landing-lights</switch>
+			</params>
+		</overlay>
+	</model>
+	
+	<model>
+		<path>Aircraft/Generic/Lights/light-cone.xml</path>
+		<name>Taxi Light</name>
+		<offsets>
+			<x-m>-1.368</x-m>
+			<y-m>-2.595</y-m>
+			<z-m>0.95</z-m>
+		</offsets>
+		<overlay>
+			<params>
+				<switch>/controls/lighting/taxi-light</switch>
+			</params>
+		</overlay>
+	</model>
+	<model>
+		<path>Aircraft/Generic/Lights/light-cone.xml</path>
+		<name>Taxi Light.001</name>
+		<offsets>
+			<x-m>-1.368</x-m>
+			<y-m>2.595</y-m>
+			<z-m>0.95</z-m>
+		</offsets>
+		<overlay>
+			<params>
+				<switch>/controls/lighting/taxi-light</switch>
+			</params>
+		</overlay>
+	</model>
+	<!-- DEBUG -->
+	<model>
+		<path>Aircraft/Generic/Lights/light-cone-debug.xml</path>
+		<name>Landing Light</name>
+		<offsets>
+			<x-m>-1.168</x-m>
+			<y-m>7.305</y-m>
+			<z-m>4.08</z-m>
+			<pitch-deg>-7</pitch-deg>
+		</offsets>
+		<overlay>
+			<params>
+				<switch>/controls/lighting/landing-lights-debug</switch>
+			</params>
+		</overlay>
+	</model>
+	<model>
+		<path>Aircraft/Generic/Lights/light-cone-debug.xml</path>
+		<name>Landing Light.001</name>
+		<offsets>
+			<x-m>-1.168</x-m>
+			<y-m>-7.305</y-m>
+			<z-m>4.08</z-m>
+			<pitch-deg>-7</pitch-deg>
+		</offsets>
+		<overlay>
+			<params>
+				<switch>/controls/lighting/landing-lights-debug</switch>
+			</params>
+		</overlay>
+	</model>
+	
+	<model>
+		<path>Aircraft/Generic/Lights/light-cone-debug.xml</path>
+		<name>Taxi Light</name>
+		<offsets>
+			<x-m>-1.368</x-m>
+			<y-m>-2.595</y-m>
+			<z-m>0.95</z-m>
+		</offsets>
+		<overlay>
+			<params>
+				<switch>/controls/lighting/landing-lights-debug</switch>
+			</params>
+		</overlay>
+	</model>
+	<model>
+		<path>Aircraft/Generic/Lights/light-cone-debug.xml</path>
+		<name>Taxi Light.001</name>
+		<offsets>
+			<x-m>-1.368</x-m>
+			<y-m>2.595</y-m>
+			<z-m>0.95</z-m>
+		</offsets>
+		<overlay>
+			<params>
+				<switch>/controls/lighting/landing-lights-debug</switch>
+			</params>
+		</overlay>
+	</model>
+
+</PropertyList>
+

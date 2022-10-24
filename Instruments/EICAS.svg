@@ -1,0 +1,994 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="768"
+   height="1024"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="EICAS.svg"
+   inkscape:export-filename="/home/tom/Dropbox/Modelling/objects/C-130J/textures/EICAS.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.6456453"
+     inkscape:cx="1035.8024"
+     inkscape:cy="664.88926"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="true"
+     units="px"
+     borderlayer="true"
+     inkscape:window-width="1680"
+     inkscape:window-height="1026"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-bottom="2.7755576e-17"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     showguides="true"
+     guidehicolor="#ffff00"
+     guidehiopacity="0.49803922"
+     inkscape:snap-from-guide="true"
+     gridtolerance="10">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3007"
+       empspacing="16"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       units="px"
+       spacingx="2px"
+       spacingy="2px"
+       empcolor="#ff0000"
+       empopacity="1"
+       color="#ff0000"
+       opacity="0.18039216"
+       originx="0mm"
+       originy="0px" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,768"
+       id="guide5915" />
+    <sodipodi:guide
+       position="768,0"
+       orientation="-1024,0"
+       id="guide5917" />
+    <sodipodi:guide
+       position="768,1024"
+       orientation="0,-768"
+       id="guide5919" />
+    <sodipodi:guide
+       position="0,1024"
+       orientation="1024,0"
+       id="guide5921" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Blueprint"
+     style="display:none"
+     transform="translate(0,272.73982)"
+     sodipodi:insensitive="true">
+    <image
+       y="-272.73981"
+       x="0"
+       id="image3004"
+       xlink:href="file:///home/tom/Dokumente/Aviation/C130/schematics/EICAS/full.jpg"
+       height="1024"
+       width="768" />
+    <path
+       style="fill:none;stroke:#ffff00;stroke-width:2.14834452;stroke-dashoffset:0"
+       d="m 85.1595,-272.73982 0,480"
+       id="path3869"
+       inkscape:connector-curvature="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3869"
+       id="use3871"
+       transform="translate(167.8405,0)"
+       width="768"
+       height="1024" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use3871"
+       id="use3873"
+       transform="translate(262,0)"
+       width="768"
+       height="1024" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use3873"
+       id="use3875"
+       transform="translate(168,0)"
+       width="768"
+       height="1024" />
+  </g>
+  <g
+     inkscape:label="Base"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style=""
+     transform="translate(0,-28.441283)">
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:4;stroke-dasharray:22, 7;stroke-dashoffset:0"
+       d="m 384,820.44128 0,225.00002"
+       id="path3028"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:4;"
+       d="m 8,799.44128 322,0"
+       id="path3028-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:3.54330707;"
+       d="m 8,514.44128 752,0"
+       id="path3028-6-9-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       inkscape:tile-y0="555.28043"
+       inkscape:tile-x0="253.68057"
+       sodipodi:linespacing="125%"
+       id="use5790"
+       y="805.99927"
+       x="384.83301"
+       style="font-size:34px;font-weight:bold;text-align:center;line-height:125%;text-anchor:middle;fill:#00ff00;fill-opacity:1;stroke:none;;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan5938"
+         x="384.83301"
+         y="805.99927">ACAWS</tspan></text>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3028-6"
+       id="use5934"
+       transform="translate(429.99965,0)"
+       width="768"
+       height="1024" />
+    <text
+       inkscape:tile-y0="555.28043"
+       inkscape:tile-x0="253.68057"
+       sodipodi:linespacing="125%"
+       id="use5790-9"
+       y="548.99927"
+       x="384"
+       style="font-size:34px;font-weight:bold;text-align:center;line-height:125%;text-anchor:middle;fill:#00ff00;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan5982"
+         x="384"
+         y="548.99927">NP</tspan></text>
+    <text
+       inkscape:tile-y0="555.28043"
+       inkscape:tile-x0="253.68057"
+       sodipodi:linespacing="125%"
+       id="use5790-9-4"
+       y="585.71356"
+       x="384.22101"
+       style="font-size:34px;font-weight:bold;text-align:center;line-height:125%;text-anchor:middle;fill:#00ff00;fill-opacity:1;stroke:none;;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan6005"
+         x="384.22101"
+         y="585.71356">FF</tspan></text>
+    <text
+       inkscape:tile-y0="555.28043"
+       inkscape:tile-x0="253.68057"
+       sodipodi:linespacing="125%"
+       id="use5790-9-1"
+       y="622.42786"
+       x="384.52701"
+       style="font-size:34px;font-weight:bold;text-align:center;line-height:125%;text-anchor:middle;fill:#00ff00;fill-opacity:1;stroke:none;;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan6016"
+         x="384.52701"
+         y="622.42786">OIL</tspan></text>
+    <text
+       inkscape:tile-y0="555.28043"
+       inkscape:tile-x0="253.68057"
+       sodipodi:linespacing="125%"
+       id="use5790-9-48"
+       y="659.14215"
+       x="384.74799"
+       style="font-size:34px;font-weight:bold;text-align:center;line-height:125%;text-anchor:middle;fill:#00ff00;fill-opacity:1;stroke:none;;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan6027"
+         x="384.74799"
+         y="659.14215">G PSI</tspan></text>
+    <text
+       inkscape:tile-y0="555.28043"
+       inkscape:tile-x0="253.68057"
+       sodipodi:linespacing="125%"
+       id="use5790-9-48-6"
+       y="695.85638"
+       x="384.13599"
+       style="font-size:34px;font-weight:bold;text-align:center;line-height:125%;text-anchor:middle;fill:#00ff00;fill-opacity:1;stroke:none;;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan6050"
+         x="384.13599"
+         y="695.85638">E PSI</tspan></text>
+    <text
+       inkscape:tile-y0="555.28043"
+       inkscape:tile-x0="253.68057"
+       sodipodi:linespacing="125%"
+       id="use5790-9-48-2"
+       y="732.57068"
+       x="384.35699"
+       style="font-size:34px;font-weight:bold;text-align:center;line-height:125%;text-anchor:middle;fill:#00ff00;fill-opacity:1;stroke:none;;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan6061"
+         x="384.35699"
+         y="732.57068">TEMP</tspan></text>
+    <text
+       inkscape:tile-y0="555.28043"
+       inkscape:tile-x0="253.68057"
+       sodipodi:linespacing="125%"
+       id="use5790-9-48-1"
+       y="769.28497"
+       x="384.05099"
+       style="font-size:34px;font-weight:bold;text-align:center;line-height:125%;text-anchor:middle;fill:#00ff00;fill-opacity:1;stroke:none;;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan4001"
+         x="384.05099"
+         y="769.28497">QTY</tspan></text>
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:4;"
+       d="m 8,615.44128 336,0"
+       id="path3028-6-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3028-6-9"
+       id="use6092"
+       transform="translate(416,0)"
+       width="768"
+       height="1024" />
+    <text
+       inkscape:tile-y0="555.28043"
+       inkscape:tile-x0="253.68057"
+       sodipodi:linespacing="125%"
+       id="use5790-9-3"
+       y="444.44128"
+       x="384"
+       style="font-size:34px;font-weight:bold;text-align:center;line-height:125%;text-anchor:middle;fill:#00ff00;fill-opacity:1;stroke:none;;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan6137"
+         x="384"
+         y="444.44128">NG</tspan></text>
+    <text
+       inkscape:tile-y0="555.28043"
+       inkscape:tile-x0="253.68057"
+       sodipodi:linespacing="125%"
+       id="use5790-9-7"
+       y="121.44128"
+       x="384"
+       style="font-size:34px;font-weight:bold;text-align:center;line-height:125%;text-anchor:middle;fill:#00ff00;fill-opacity:1;stroke:none;;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan6133"
+         x="384"
+         y="121.44128">HP</tspan></text>
+    <text
+       inkscape:tile-y0="555.28043"
+       inkscape:tile-x0="253.68057"
+       sodipodi:linespacing="125%"
+       id="use5790-9-6"
+       y="286.44128"
+       x="384"
+       style="font-size:34px;font-weight:bold;text-align:center;line-height:125%;text-anchor:middle;fill:#00ff00;fill-opacity:1;stroke:none;;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan6135"
+         x="384"
+         y="286.44128">MGT</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Data"
+     style="">
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-weight:bold;text-align:start;line-height:125%;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+       x="390"
+       y="812.90002"
+       id="ACAWS_8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3880"
+         x="390"
+         y="812.90002">CREW DOOR OPEN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-weight:bold;text-align:start;line-height:125%;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+       x="390.12799"
+       y="841.90002"
+       id="ACAWS_9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4002"
+         x="390.12799"
+         y="841.90002">ANTI-SKID OFF</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-weight:bold;text-align:start;line-height:125%;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+       x="389.84"
+       y="870.90002"
+       id="ACAWS_10"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4008"
+         x="389.84"
+         y="870.90002">RAMP OPEN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-weight:bold;text-align:start;line-height:125%;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+       x="389.84"
+       y="899.90002"
+       id="ACAWS_11"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3994"
+         x="389.84"
+         y="899.90002">L 60 HZ CONVERTER OFF</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-weight:bold;text-align:start;line-height:125%;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+       x="389.84"
+       y="928.90002"
+       id="ACAWS_12"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3996"
+         x="389.84"
+         y="928.90002">R 60 HZ CONVERTER OFF</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-weight:bold;text-align:start;line-height:125%;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+       x="389.84"
+       y="957.90002"
+       id="ACAWS_13"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4000"
+         x="389.84"
+         y="957.90002">L TROOP DOOR OPEN 250</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-weight:bold;text-align:start;line-height:125%;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+       x="389.84"
+       y="986.90002"
+       id="ACAWS_14"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3998"
+         x="389.84"
+         y="986.90002">R TROOP DOOR OPEN 250</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="ACAWS_0"
+       y="812.90002"
+       x="6.1600037"
+       style="font-size:32px;font-weight:bold;text-align:start;line-height:125%;text-anchor:start;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan4006"
+         x="6.1600037"
+         y="812.90002">TOTAL FUEL LOW</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="ACAWS_1"
+       y="841.90002"
+       x="6.2879944"
+       style="font-size:32px;font-weight:bold;text-align:start;line-height:125%;text-anchor:start;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan4012"
+         x="6.2879944"
+         y="841.90002">LOX QTY LOW</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="ACAWS_2"
+       y="870.90002"
+       x="6"
+       style="font-size:32px;font-weight:bold;text-align:start;line-height:125%;text-anchor:start;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan4010"
+         x="6"
+         y="870.90002">ECHS FAIL</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="ACAWS_3"
+       y="899.90002"
+       x="6"
+       style="font-size:32px;font-weight:bold;text-align:start;line-height:125%;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+       xml:space="preserve"><tspan
+         y="899.90002"
+         x="6"
+         id="tspan3896"
+         sodipodi:role="line">MISSION DTC NOT INSTLD</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="ACAWS_4"
+       y="928.90002"
+       x="6"
+       style="font-size:32px;font-weight:bold;text-align:start;line-height:125%;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan3954"
+         x="6"
+         y="928.90002">MAINT DTC NOT INSTLD</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="ACAWS_5"
+       y="957.90002"
+       x="6"
+       style="font-size:32px;font-weight:bold;text-align:start;line-height:125%;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan3956"
+         x="6"
+         y="957.90002">CGO DOOR OPEN</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="ACAWS_6"
+       y="986.90002"
+       x="6"
+       style="font-size:32px;font-weight:bold;text-align:start;line-height:125%;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan3958"
+         x="6"
+         y="986.90002">GPS 1 FOM DEGRADED</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="ACAWS_7"
+       y="1015.9"
+       x="6"
+       style="font-size:32px;font-weight:bold;text-align:start;line-height:125%;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan3960"
+         x="6"
+         y="1015.9">GPS 1 UNAVAILABLE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-weight:bold;text-align:start;line-height:125%;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+       x="389.84"
+       y="1015.9"
+       id="sp_selected"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3964"
+         x="389.84"
+         y="1015.9">SP-SELECTED</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="cnt_1"
+       y="1015.9"
+       x="586"
+       style="font-size:32px;font-weight:bold;text-align:start;line-height:125%;text-anchor:start;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan3970"
+         x="586"
+         y="1015.9">--/--</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-weight:bold;text-align:start;line-height:125%;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+       x="675.73206"
+       y="1015.9"
+       id="cnt_2"
+       sodipodi:linespacing="125%"><tspan
+         y="1015.9"
+         x="675.73206"
+         id="tspan3974"
+         sodipodi:role="line">--/--</tspan></text>
+    <g
+       inkscape:transform-center-y="0"
+       id="eng1">
+      <rect
+         style="fill:none;stroke:#ffffff;stroke-width:4;"
+         id="box"
+         width="150"
+         height="744"
+         x="10"
+         y="10" />
+      <g
+         id="hp">
+        <path
+           sodipodi:end="4.7298423"
+           sodipodi:start="4.712389"
+           transform="matrix(1.0307747,0,0,1.0307747,2.47004,-330.83269)"
+           d="m 80.000001,351 a 49,49 0 1 1 0.855168,0.007"
+           sodipodi:ry="49"
+           sodipodi:rx="49"
+           sodipodi:cy="400"
+           sodipodi:cx="80"
+           id="arc_hp"
+           style="fill:none;stroke:#00ff00;stroke-width:6.5"
+           sodipodi:type="arc"
+           sodipodi:open="true" />
+        <rect
+           y="80.477196"
+           x="83.931763"
+           height="2"
+           width="2"
+           id="rect6149-2-1"
+           style="fill:#00ff00;fill-opacity:1;stroke:none" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path6151-0-9"
+           d="m 84.935965,23.800345 0,20.199655"
+           style="fill:none;stroke:#00ff00;stroke-width:3" />
+        <path
+           sodipodi:open="true"
+           sodipodi:end="3.1415927"
+           sodipodi:start="2.9496064"
+           transform="matrix(1.0307747,0,0,1.0307747,2.46975,-330.83269)"
+           d="M 26.992132,410.30369 C 26.332237,406.90882 26,403.45841 26,400"
+           sodipodi:ry="54"
+           sodipodi:rx="54"
+           sodipodi:cy="400"
+           sodipodi:cx="80"
+           id="path6143-7-8-2"
+           style="fill:none;stroke:#ff0000;stroke-width:3.92520308"
+           sodipodi:type="arc" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path6189-3-5"
+           d="m 27.24978,81.47719 16,0"
+           style="fill:none;stroke:#ff0000;stroke-width:3" />
+        <path
+           sodipodi:open="true"
+           sodipodi:end="2.9670597"
+           sodipodi:start="2.8955012"
+           sodipodi:type="arc"
+           style="fill:none;stroke:#ff0000;stroke-width:13.64371777"
+           id="path6292-4-5"
+           sodipodi:cx="80"
+           sodipodi:cy="84"
+           sodipodi:rx="54"
+           sodipodi:ry="54"
+           d="m 27.626912,97.155212 c -0.313823,-1.24938 -0.582838,-2.509589 -0.80653,-3.778209"
+           transform="translate(-1.4393399,-1.4254043)" />
+        <path
+           d="M 28.642948,96.686917 C 28.244875,95.461775 27.890769,94.222781 27.58131,92.972314"
+           sodipodi:ry="54"
+           sodipodi:rx="54"
+           sodipodi:cy="80"
+           sodipodi:cx="80"
+           id="path6296-5-2"
+           style="fill:none;stroke:#fff900;stroke-width:13.65046024"
+           sodipodi:type="arc"
+           sodipodi:start="2.8274334"
+           sodipodi:end="2.8989919"
+           sodipodi:open="true"
+           transform="translate(-1.4357661,2.5480368)" />
+        <text
+           xml:space="preserve"
+           x="77.731873"
+           y="53.477184"
+           id="readout_hp"
+           sodipodi:linespacing="125%"
+           style="font-size:32px;font-weight:bold;text-align:end;line-height:125%;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"><tspan
+             y="53.477184"
+             x="77.731873"
+             id="tspan3997-2-1"
+             sodipodi:role="line">79</tspan></text>
+        <path
+           sodipodi:open="true"
+           sodipodi:end="9.128072"
+           sodipodi:start="4.712389"
+           transform="matrix(1.0307747,0,0,1.0307747,2.56367,-330.83269)"
+           d="M 80.000001,346 C 109.82338,346 134,370.17662 134,400 c 0,29.82338 -24.17662,54 -54.000001,54 -23.742039,0 -44.698956,-15.5073 -51.640456,-38.21193"
+           sodipodi:ry="54"
+           sodipodi:rx="54"
+           sodipodi:cy="400"
+           sodipodi:cx="80"
+           id="path6143-5-9-9"
+           style="fill:none;stroke:#00ff00;stroke-width:3.92520308"
+           sodipodi:type="arc" />
+        <path
+           inkscape:transform-center-y="-28.828202"
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="dial_hp"
+           d="m 84.932,81.47719 0,-57.673983"
+           style="fill:none;stroke:#ffffff;stroke-width:3" />
+        <path
+           sodipodi:open="true"
+           sodipodi:end="5.6548668"
+           sodipodi:start="5.550147"
+           transform="matrix(1.0307747,0,0,1.0307747,2.47557,-330.74485)"
+           d="m 112.69837,370.55825 c 1.02795,1.14165 1.9954,2.33635 2.89838,3.5792"
+           sodipodi:ry="44"
+           sodipodi:rx="44"
+           sodipodi:cy="400"
+           sodipodi:cx="80"
+           id="path6143-5-9-9-7"
+           style="fill:none;stroke:#00ff00;stroke-width:17"
+           sodipodi:type="arc" />
+        <path
+           sodipodi:open="true"
+           sodipodi:end="0.33161256"
+           sodipodi:start="0.2268928"
+           transform="matrix(1.0307747,0,0,1.0307747,2.47557,-330.74485)"
+           d="m 122.87228,409.89785 c -0.34558,1.49686 -0.76931,2.9746 -1.26946,4.42715"
+           sodipodi:ry="44"
+           sodipodi:rx="44"
+           sodipodi:cy="400"
+           sodipodi:cx="80"
+           id="path6143-5-9-9-7-6"
+           style="fill:none;stroke:#00ff00;stroke-width:17"
+           sodipodi:type="arc" />
+        <path
+           sodipodi:open="true"
+           sodipodi:end="1.2915436"
+           sodipodi:start="1.1868239"
+           transform="matrix(1.0307747,0,0,1.0307747,2.47557,-330.74485)"
+           d="m 96.48269,440.79609 c -1.424377,0.57549 -2.877916,1.07598 -4.354644,1.49942"
+           sodipodi:ry="44"
+           sodipodi:rx="44"
+           sodipodi:cy="400"
+           sodipodi:cx="80"
+           id="path6143-5-9-9-7-6-3"
+           style="fill:none;stroke:#00ff00;stroke-width:17"
+           sodipodi:type="arc" />
+        <path
+           sodipodi:open="true"
+           sodipodi:end="2.2514747"
+           sodipodi:start="2.146755"
+           transform="matrix(1.0307747,0,0,1.0307747,2.47557,-330.74485)"
+           d="m 56.035882,436.9015 c -1.288399,-0.83669 -2.532095,-1.74029 -3.725978,-2.70708"
+           sodipodi:ry="44"
+           sodipodi:rx="44"
+           sodipodi:cy="400"
+           sodipodi:cx="80"
+           id="path6143-5-9-9-7-6-3-7"
+           style="fill:none;stroke:#00ff00;stroke-width:17"
+           sodipodi:type="arc" />
+      </g>
+      <text
+         inkscape:tile-y0="555.28043"
+         inkscape:tile-x0="253.68057"
+         sodipodi:linespacing="125%"
+         id="msg"
+         y="174"
+         x="84.300003"
+         style="font-size:34px;font-weight:bold;text-align:center;line-height:125%;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+         xml:space="preserve"><tspan
+           sodipodi:role="line"
+           id="tspan3900"
+           x="84.300003"
+           y="174">FAIL</tspan></text>
+      <g
+         id="mgt">
+        <path
+           sodipodi:open="true"
+           sodipodi:end="8.6044732"
+           sodipodi:start="4.712389"
+           transform="matrix(1.0307747,0,0,1.0307747,2.73789,-164.8327)"
+           d="M 80.000001,352 C 106.50967,352 128,373.49033 128,400 c 0,26.50967 -21.49033,48 -48.000001,48 -12.150779,0 -23.849402,-4.60821 -32.73592,-12.89502"
+           sodipodi:ry="48"
+           sodipodi:rx="48"
+           sodipodi:cy="400"
+           sodipodi:cx="80"
+           id="path6143-5"
+           style="fill:none;stroke:#00ff00;stroke-width:3.92520308"
+           sodipodi:type="arc" />
+        <rect
+           y="246.47719"
+           x="84.19989"
+           height="2"
+           width="2"
+           id="rect6149-2"
+           style="fill:#00ff00;fill-opacity:1;stroke:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path6151-0"
+           d="m 85.184319,195.97718 0,16"
+           style="fill:none;stroke:#00ff00;stroke-width:3" />
+        <path
+           sodipodi:open="true"
+           sodipodi:end="3.1415927"
+           sodipodi:start="2.4260077"
+           transform="matrix(1.0307747,0,0,1.0307747,2.73789,-164.8327)"
+           d="M 43.773939,431.49083 C 36.181312,422.75651 31.999999,411.57308 32,400"
+           sodipodi:ry="48"
+           sodipodi:rx="48"
+           sodipodi:cy="400"
+           sodipodi:cx="80"
+           id="path6143-7-8"
+           style="fill:none;stroke:#ff0000;stroke-width:3.92520308"
+           sodipodi:type="arc" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path6189-3"
+           d="m 33.7,247.47718 16,0"
+           style="fill:none;stroke:#ff0000;stroke-width:3" />
+        <path
+           sodipodi:open="true"
+           sodipodi:end="2.443461"
+           sodipodi:start="2.3719025"
+           sodipodi:type="arc"
+           style="fill:none;stroke:#ff0000;stroke-width:13.64371777"
+           id="path6292-4"
+           sodipodi:cx="80"
+           sodipodi:cy="250"
+           sodipodi:rx="48"
+           sodipodi:ry="48"
+           d="m 45.529936,283.40381 c -0.79686,-0.82229 -1.564042,-1.67284 -2.300071,-2.55001"
+           transform="translate(0.68449617,1.8481396)" />
+        <path
+           d="m 47.881731,285.67095 c -0.850944,-0.76619 -1.674199,-1.56259 -2.468184,-2.38766"
+           sodipodi:ry="48"
+           sodipodi:rx="48"
+           sodipodi:cy="250"
+           sodipodi:cx="80"
+           id="path6296-5"
+           style="fill:none;stroke:#fff900;stroke-width:13.68046093"
+           sodipodi:type="arc"
+           sodipodi:start="2.3038346"
+           sodipodi:end="2.3753931"
+           sodipodi:open="true"
+           transform="translate(0.61604659,1.7985634)" />
+        <path
+           inkscape:label=""
+           inkscape:transform-center-y="-25.745893"
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="dial_mgt"
+           d="m 85.2,247.47718 0,-51.5"
+           style="fill:none;stroke:#ffffff;stroke-width:3" />
+        <text
+           inkscape:label=""
+           xml:space="preserve"
+           style="font-size:32px;font-weight:bold;text-align:end;line-height:125%;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+           x="78"
+           y="219.47717"
+           id="readout_mgt"
+           sodipodi:linespacing="125%"><tspan
+             y="219.47717"
+             x="78"
+             id="tspan3997-2"
+             sodipodi:role="line">79</tspan></text>
+      </g>
+      <g
+         id="ng">
+        <path
+           sodipodi:open="true"
+           sodipodi:end="9.0757121"
+           sodipodi:start="4.712389"
+           transform="matrix(1.0307747,0,0,1.0307747,2.737892,-4.309879)"
+           d="M 80.000001,352 C 106.50967,352 128,373.49033 128,400 c 0,26.50967 -21.49033,48 -48.000001,48 -20.179122,0 -38.203578,-12.62086 -45.105245,-31.58303"
+           sodipodi:ry="48"
+           sodipodi:rx="48"
+           sodipodi:cy="400"
+           sodipodi:cx="80"
+           id="path6143"
+           style="fill:none;stroke:#00ff00;stroke-width:3.92520308"
+           sodipodi:type="arc" />
+        <rect
+           y="435.44128"
+           x="84.199867"
+           height="2"
+           width="2"
+           id="rect6149"
+           style="fill:#00ff00;fill-opacity:1;stroke:none"
+           transform="translate(0,-28.441283)" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path6151"
+           d="m 85.199868,384.94128 0,16"
+           style="fill:none;stroke:#00ff00;stroke-width:3"
+           transform="translate(0,-28.441283)" />
+        <path
+           sodipodi:open="true"
+           sodipodi:end="3.1415927"
+           sodipodi:start="2.7925268"
+           transform="matrix(1.0307747,0,0,1.0307747,2.737892,-4.309878)"
+           d="M 34.894754,416.41697 C 32.979689,411.15537 32,405.59927 32,400"
+           sodipodi:ry="48"
+           sodipodi:rx="48"
+           sodipodi:cy="400"
+           sodipodi:cx="80"
+           id="path6143-7"
+           style="fill:none;stroke:#ff0000;stroke-width:3.92520308"
+           sodipodi:type="arc" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path6189"
+           d="m 33.7,436.44128 16,0"
+           style="fill:none;stroke:#ff0000;stroke-width:3"
+           transform="translate(0,-28.441283)" />
+        <path
+           sodipodi:open="true"
+           sodipodi:end="2.86234"
+           sodipodi:start="2.7907815"
+           sodipodi:type="arc"
+           style="fill:none;stroke:#ff0000;stroke-width:13.64371777"
+           id="path6292"
+           sodipodi:cx="80"
+           sodipodi:cy="400"
+           sodipodi:rx="48"
+           sodipodi:ry="48"
+           d="m 34.923475,416.49566 c -0.39351,-1.07531 -0.748416,-2.16437 -1.064037,-3.26507"
+           transform="matrix(1.1528383,0,0,1.1528383,-7.027196,-53.135319)" />
+        <path
+           transform="matrix(1.1528383,0,0,1.1528383,-7.027196,-53.135319)"
+           d="M 36.149819,419.52336 C 35.684082,418.4773 35.255925,417.4149 34.86617,416.33822"
+           sodipodi:ry="48"
+           sodipodi:rx="48"
+           sodipodi:cy="400"
+           sodipodi:cx="80"
+           id="path6296"
+           style="fill:none;stroke:#fff900;stroke-width:13.73046017"
+           sodipodi:type="arc"
+           sodipodi:start="2.7227136"
+           sodipodi:end="2.7942721"
+           sodipodi:open="true" />
+        <path
+           inkscape:transform-center-y="-25.745893"
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="dial_ng"
+           d="m 85.2,408 0,-51.5"
+           style="fill:none;stroke:#ffffff;stroke-width:3" />
+        <text
+           xml:space="preserve"
+           style="font-size:32px;font-weight:bold;text-align:end;line-height:125%;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+           x="78"
+           y="380"
+           id="readout_ng"
+           sodipodi:linespacing="125%"><tspan
+             y="380"
+             x="78"
+             id="tspan3997"
+             sodipodi:role="line">79</tspan></text>
+      </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="NP"
+         y="520.49396"
+         x="136"
+         style="font-size:32px;font-weight:bold;text-align:end;line-height:125%;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+         xml:space="preserve"><tspan
+           sodipodi:role="line"
+           id="tspan3971"
+           x="136"
+           y="520.49396">99</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="FF"
+         y="556.75183"
+         x="136.576"
+         style="font-size:32px;font-weight:bold;text-align:end;line-height:125%;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+         xml:space="preserve"><tspan
+           sodipodi:role="line"
+           id="tspan3973"
+           x="136.576"
+           y="556.75183">556</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="G_PSI"
+         y="630.23059"
+         x="136"
+         style="font-size:32px;font-weight:bold;text-align:end;line-height:125%;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+         xml:space="preserve"><tspan
+           sodipodi:role="line"
+           id="tspan3937"
+           x="136"
+           y="630.23059">194</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="E_PSI"
+         y="667.11029"
+         x="136"
+         style="font-size:32px;font-weight:bold;text-align:end;line-height:125%;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+         xml:space="preserve"><tspan
+           sodipodi:role="line"
+           id="tspan3939"
+           x="136"
+           y="667.11029">51.9</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="TEMP"
+         y="703.98999"
+         x="136"
+         style="font-size:32px;font-weight:bold;text-align:end;line-height:125%;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+         xml:space="preserve"><tspan
+           sodipodi:role="line"
+           id="tspan3941"
+           x="136"
+           y="703.98999">73</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="QTY"
+         y="740.86969"
+         x="136"
+         style="font-size:32px;font-weight:bold;text-align:end;line-height:125%;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+         xml:space="preserve"><tspan
+           sodipodi:role="line"
+           id="tspan3954-8"
+           x="136"
+           y="740.86969">11.6</tspan></text>
+    </g>
+    <use
+       xlink:href="#eng1"
+       id="eng2"
+       transform="translate(168,0)"
+       width="768"
+       height="1024"
+       x="0"
+       y="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#eng1"
+       id="eng3"
+       transform="translate(430,0)"
+       width="768"
+       height="1024" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#eng2"
+       id="eng4"
+       transform="translate(430,0)"
+       width="768"
+       height="1024" />
+  </g>
+</svg>

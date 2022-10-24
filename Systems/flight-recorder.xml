@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<PropertyList>
+
+  <replay-config type="int">0</replay-config>
+  <config n="0">
+    <name type="string">C-130J Flight Recorder</name>
+
+    <!-- Basic aircraft data -->
+    <signals include="/Aircraft/Generic/flightrecorder/components/environment.xml"/>
+    <signals include="/Aircraft/Generic/flightrecorder/components/position.xml"/>
+    <signals include="/Aircraft/Generic/flightrecorder/components/controls.xml"/>
+    <signals include="/Aircraft/Generic/flightrecorder/components/surfaces.xml"/>
+    <signals include="/Aircraft/Generic/flightrecorder/components/engine-turboprop.xml">
+      <count type="int">4</count>
+    </signals>
+    <signals include="/Aircraft/Generic/flightrecorder/components/faults-engines.xml">
+      <count type="int">4</count>
+    </signals>
+    <signals include="/Aircraft/Generic/flightrecorder/components/tanks.xml">
+      <count type="int">4</count>
+    </signals>
+    <signals include="/Aircraft/Generic/flightrecorder/components/gear-retractable.xml">
+      <count type="int">5</count>
+    </signals>
+    
+    <!-- Doors -->
+    <signal>
+      <type>float</type>
+      <property type="string">/controls/doors/cargo-ramp/position</property>
+    </signal>
+    <signal>
+      <type>float</type>
+      <property type="string">/controls/doors/crew-door/position</property>
+    </signal>
+
+  </config>
+
+</PropertyList>

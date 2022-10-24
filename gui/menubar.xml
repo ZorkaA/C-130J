@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<PropertyList>
+
+<default>
+  <menu n="10">
+	  <label>C-130J</label>
+
+	  <item>
+		  <label>Load Aircraft</label>
+		  <binding>
+			  <command>dialog-show</command>
+			  <dialog-name>aircraft</dialog-name>
+		  </binding>
+	  </item>
+
+	  <item>
+		  <label>------------------</label>
+		  <enabled>false</enabled>
+	  </item>
+
+  </menu>
+</default>
+
+</PropertyList>

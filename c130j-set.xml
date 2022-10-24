@@ -1,0 +1,195 @@
+<?xml version="1.0" ?>
+<PropertyList>
+
+<sim>
+  <description>C-130J Super Hercules</description>
+  <status>developement</status>
+  <author>Thomas Geymayer</author>
+  <flight-model>jsb</flight-model>
+  <aero>c130j-jsb</aero>
+
+  <startup>
+    <splash-texture>c130j-splash.png</splash-texture>
+    <splash-title>C-130J Super Hercules</splash-title>
+  </startup>
+  
+  <menubar include="gui/menubar.xml"/>
+  <help include="gui/help.xml"/>
+
+  <flight-recorder include="Systems/flight-recorder.xml"/>
+  
+  <flaps>
+    <setting>0</setting>
+    <setting>0.1</setting>
+    <setting>0.2</setting>
+    <setting>0.3</setting>
+    <setting>0.4</setting>
+    <setting>0.5</setting>
+    <setting>0.6</setting>
+    <setting>0.7</setting>
+    <setting>0.8</setting>
+    <setting>0.9</setting>
+    <setting>1</setting>
+  </flaps>
+
+
+  <model>
+    <path>Models/main.xml</path>
+  </model>
+  
+  <sound>
+    <path>Sounds/sound.xml</path>
+  </sound>
+
+  <current-view>
+    <view-number type="int">8</view-number>
+  </current-view>
+    
+	<view n="0">
+    <internal archive="y">true</internal>
+    <config>
+      <x-offset-m archive="y">  -0.52  </x-offset-m> <!--Right -->
+      <y-offset-m archive="y">   3.529 </y-offset-m> <!--Up    -->
+      <z-offset-m archive="y"> -10.39  </z-offset-m> <!--Back  -->
+      <pitch-offset-deg> -11 </pitch-offset-deg>
+      <default-field-of-view-deg>61</default-field-of-view-deg>
+    </config>
+  </view>
+  
+  <view n="100">
+		<name>Crew Entrance Door</name>
+		<type>lookfrom</type>
+		<internal type="bool">false</internal>
+		<config>
+			<x-offset-m type="double">-5.5</x-offset-m>
+			<y-offset-m type="double">1.7</y-offset-m>
+			<z-offset-m type="double">-8.8</z-offset-m>
+			<default-heading-offset-deg>-90</default-heading-offset-deg>
+			<heading-offset-deg>-90</heading-offset-deg>
+			<pitch-offset-deg>-10</pitch-offset-deg>
+			<default-field-of-view-deg type="double">85.0</default-field-of-view-deg>
+			<from-model type="bool">true</from-model>
+		</config>
+	</view>
+  
+  <instrumentation>
+    <path>Systems/instrumentation.xml</path>
+  </instrumentation>
+  
+  <systems>
+    <path>Systems/systems.xml</path>
+    <property-rule n="100">
+      <path>Systems/doors.xml</path>
+      <update-interval-secs type="double">0.04</update-interval-secs>
+    </property-rule>
+  </systems>
+</sim>
+
+<input>
+  <keyboard>
+   <key n="127">
+    <name>Delete</name>
+    <desc>Toggle Reversers</desc>
+    <binding>
+     <command>nasal</command>
+     <script>reversethrust.togglereverser(4)</script>
+    </binding>
+   </key>
+  </keyboard>
+</input>
+
+<engines>
+	<engine n="0">
+		<running>true</running>
+		<ignition>true</ignition>
+		<reverser-position type="double">0</reverser-position>
+	</engine>
+	<engine n="1">
+		<running>true</running>
+		<ignition>true</ignition>
+		<reverser-position type="double">0</reverser-position>
+	</engine>
+	<engine n="2">
+		<running>true</running>
+		<ignition>true</ignition>
+		<reverser-position type="double">0</reverser-position>
+	</engine>
+	<engine n="3">
+		<running>true</running>
+		<ignition>true</ignition>
+		<reverser-position type="double">0</reverser-position>
+	</engine>   
+	<engine n="4">
+		<running>false</running>
+		<ignition>true</ignition>
+		<reverser-position type="double">0</reverser-position>
+	</engine> 
+</engines>
+
+<controls>
+  <doors include="doors.xml"/>
+  <engines>
+    <autostart>1</autostart>
+  </engines>
+  <gear>
+    <brake-parking>1</brake-parking>
+  </gear>
+  <lighting>
+    <strobe type="bool">true</strobe>
+  </lighting>
+</controls>
+
+<instrumentation>
+  <radar-altimeter>
+    <!-- AN/APN-232 CARA -->
+    <switch type="string">ON</switch>
+    <serviceable type="bool">true</serviceable>
+    <antenna>
+      <x-offset-m type="double">8.3</x-offset-m>
+      <y-offset-m type="double">0</y-offset-m>
+      <z-offset-m type="double">-0.5</z-offset-m>
+    </antenna>
+
+    <!-- +-60deg up to 3000ft -->
+    <elev-limit type="double">60</elev-limit>
+    <az-limit-deg type="double">60</az-limit-deg>
+    
+    <!-- TODO +-45deg up to 5000ft,
+              +-10deg up to 50000ft -->
+    
+    <!-- 50000ft -->
+    <max-range-m>15240</max-range-m>
+  </radar-altimeter>
+</instrumentation>
+
+<payload>
+	<weight>
+		<name type="string">Passengers and crew</name>
+		<weight-lb alias="/fdm/jsbsim/inertia/pointmass-weight-lbs[0]"/>
+		<min-lb type="double">0</min-lb>
+		<max-lb type="double">40000</max-lb>
+	</weight>
+</payload>
+
+<nasal>
+  <tyresmoke>
+    <file>Nasal/tyresmoke.nas</file>
+  </tyresmoke>
+  <systems>
+    <file>Nasal/screen.nas</file>
+    <file>Nasal/amu.nas</file>
+    <file>Nasal/apu.nas</file>
+    <file>Nasal/cdmu.nas</file>
+    <file>Nasal/fuel-system.nas</file>
+    <file>Nasal/hud.nas</file>
+    <file>Nasal/hdd.nas</file>
+  </systems>
+  <reversethrust>
+   <file>Nasal/reverse-thrust.nas</file>
+  </reversethrust>
+  <switches>
+    <file>Nasal/switches.nas</file>
+  </switches>
+</nasal>
+
+</PropertyList>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<PropertyList>
+<cargo-ramp>
+  <trigger-up type="bool">false</trigger-up>
+  <trigger-down type="bool">false</trigger-down>
+  <position type="float">0</position>
+</cargo-ramp>
+<crew-door>
+  <position type="float">1</position>
+  <target type="float">1</target>
+</crew-door>
+</PropertyList>

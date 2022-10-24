@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+  <electrical>
+    <name>electrical</name>
+    <number>0</number>
+    <path>Aircraft/Generic/generic-electrical.xml</path>
+  </electrical>
+  
+  <apu include="APU.xml"/>
+
+</PropertyList>

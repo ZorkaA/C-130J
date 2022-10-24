@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<PropertyList>
+<filter>
+  <type>noise-spike</type>
+  <max-rate-of-change>0.05</max-rate-of-change>
+  <input>
+    <condition>
+      <property>/controls/doors/cargo-ramp/trigger-up</property>
+    </condition>
+    <value>-0.366</value>
+  </input>
+  <input>
+    <condition>
+      <property>/controls/doors/cargo-ramp/trigger-down</property>
+    </condition>
+    <value>0.262</value>
+  </input>
+  <!-- Hold position if no switch is triggered -->
+  <input>/controls/doors/cargo-ramp/position</input>
+  <output>/controls/doors/cargo-ramp/position</output>
+</filter>
+
+<filter>
+  <type>noise-spike</type>
+  <max-rate-of-change>999</max-rate-of-change>
+  <input>
+    <expression>
+      <dif>
+        <value> 34.6 </value>
+        <prod>
+          <sin>
+            <sum>
+              <property>/controls/doors/cargo-ramp/position</property>
+              <value>0.076</value>
+            </sum>
+          </sin>
+          <value> 134.2 </value>
+        </prod>
+      </dif>
+    </expression>
+  </input>
+  <output>/fdm/jsbsim/contact/unit[6]/z-position</output>
+  <output>/fdm/jsbsim/contact/unit[7]/z-position</output>
+</filter>
+
+<filter>
+  <type>noise-spike</type>
+  <max-rate-of-change>0.2</max-rate-of-change>
+  <input>/controls/doors/crew-door/target</input>
+  <output>/controls/doors/crew-door/position</output>
+</filter>
+
+<filter>
+  <type>noise-spike</type>
+  <max-rate-of-change>999</max-rate-of-change>
+  <input>
+    <expression>
+      <div>
+        <dif>
+          <value>-0.52</value>
+          <property>/sim/current-view/x-offset-m</property>
+        </dif>
+        <value>0.23</value>
+      </div>
+    </expression>
+  </input>
+  <output>/hud/offset-x</output>
+</filter>
+<filter>
+  <type>noise-spike</type>
+  <max-rate-of-change>999</max-rate-of-change>
+  <input>
+    <expression>
+      <div>
+        <dif>
+          <value>3.529</value>
+          <property>/sim/current-view/y-offset-m</property>
+        </dif>
+        <value>0.164</value>
+      </div>
+    </expression>
+  </input>
+  <output>/hud/offset-y</output>
+</filter>
+
+</PropertyList>

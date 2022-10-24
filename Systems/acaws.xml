@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- C-130J ACAWS messages -->
+<PropertyList>
+
+<!-- Status messages -->
+
+<message>
+	<type type="string">status</type>
+	<text type="string">ANTI-SKID OFF</text>
+	<condition>
+		<or>
+			<not>
+				<property>controls/gear/antiskid</property>
+			</not>
+			<property>controls/gear/brake-parking</property>
+		</or>
+	</condition>
+</message>
+
+<message>
+	<type type="string">status</type>
+	<text type="string">RAMP OPEN 250</text>
+	<condition>
+		<and>
+			<greater-than>
+				<property>controls/doors/cargo-ramp/position</property>
+				<value>-0.3659</value>
+			</greater-than>
+			<greater-than-equals>
+			  <property>velocities/airspeed-kt</property>
+			  <value>250</value>
+			</greater-than-equals>
+		</and>
+	</condition>
+</message>
+
+<message>
+	<type type="string">status</type>
+	<text type="string">RAMP OPEN</text>
+	<condition>
+		<greater-than>
+			<property>controls/doors/cargo-ramp/position</property>
+			<value>-0.3659</value>
+		</greater-than>
+	</condition>
+</message>
+<!--
+<message>
+	<type type="string">status</type>
+	<text type="string">CGO DOOR OPEN</text>
+	<condition>
+		<less-than>
+			<property>controls/doors/cargo-door/position</property>
+			<value> ??? </value>
+		</less-than>
+	</condition>
+</message>
+-->
+<message>
+	<type type="string">status</type>
+	<text type="string">CREW DOOR OPEN</text>
+	<condition>
+		<greater-than>
+			<property>controls/doors/crew-door/position</property>
+			<value>0.001</value>
+		</greater-than>
+	</condition>
+</message>
+
+</PropertyList>
